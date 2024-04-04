@@ -1,3 +1,16 @@
+This is an updated readme for the new fork AirBnB_clone_v4 last part of the
+airbnb project for the alx software engineering program in this part of the
+project we will replace the static with the web dynamic for our project also
+we will retireive data from API
+Authors:
+Bless Kobby  (country: Ghana)
+Github account: BlessKobby
+Email: amablebless@gmail.com
+
+Mostafa Zahran (Country: Egypt)
+Github Account: mostafazhrn
+Email: mostafazhrn@gmail.com
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
