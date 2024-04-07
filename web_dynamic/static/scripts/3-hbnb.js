@@ -75,7 +75,7 @@ $(document).ready(function () {
       delete lst[$(this).data('id')];
       $amenitSelect.text(Object.values(lst).join(', '));
     }
-  }
+  });
 
   $.ajax({
     url: statUrl,
